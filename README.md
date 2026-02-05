@@ -21,6 +21,7 @@ SealExample3/
 ├── 📊 PROJECT_SUMMARY.md             ← Proje özeti
 ├── 🔬 TECHNICAL_REPORT.md            ← Teknik derinlik
 ├── README.md                          ← Bu dosya
+├── ENCRYPTION_USAGE.md                 ← Which stages use SEAL (encryption usage table)
 ├── src/
 │   ├── CreditDefaultClassifierWithStackingEnsemble.py
 │   ├── utils/
